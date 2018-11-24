@@ -1,0 +1,2 @@
+# linebot_calendar
+Googleカレンダーの予定をLINEで通知します。GoogleAppScript使ってます。
