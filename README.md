@@ -4,7 +4,7 @@ GoogleAppScript使ってます。
   
 ## 使い方
 1.LINE Notifyにログインし、トークンを発行する  
-[https://notify-bot.line.me/ja](https://notify-bot.line.me/ja)  
+[https://notify-bot.line.me/my/](https://notify-bot.line.me/my/)  
 「トークンを発行する」ボタンより、トークン名とトークンルームを選択する。  
 トークンが発行される。２度と同じトークンは確認ができないので、しっかりコピーする！  
 
